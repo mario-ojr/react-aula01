@@ -7,9 +7,9 @@
     background-color: #ffffff;
     display: flex;
     flex-direction: column;
-    min-width: 300px;
+    min-width: 300px; 
 }
-
+/* 000 */
 .Card .Conteudo{    
     color: #000000;
     padding: 15px 0;
